@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jacqui, I'm a *full stack developer* 👩‍ 💻 and *CPA* 👩‍💼 🧮 located in NYC. 
+My name is Jacqui, I'm a **full stack developer** 👩‍ 💻 and **CPA** 👩‍💼 🧮 located in NYC. 
 
 
 💥 Be sure to check out the links below:
